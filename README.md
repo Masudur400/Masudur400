@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
- ![banner-2](https://github.com/Masudur400/Masudur400/assets/155249925/5402973e-57f4-4ca9-b162-c663c87f6fba)
+  
+![masud_rana](https://github.com/Masudur400/Masudur400/assets/155249925/40edd453-67f8-466b-893f-aa1e032300f8)
 
 
 
