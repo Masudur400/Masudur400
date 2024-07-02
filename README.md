@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-![banner-1](https://github.com/Masudur400/Masudur400/assets/155249925/a1f17904-c0c3-414c-949d-90050e9676d9)
+ ![banner-2](https://github.com/Masudur400/Masudur400/assets/155249925/12ef2031-8bcb-4bb3-96cb-207bab49a609)
+
 
 <!--
 **Masudur400/Masudur400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
