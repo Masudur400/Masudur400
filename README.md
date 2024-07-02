@@ -7,8 +7,7 @@ F
 <h1 align="center">Hi 👋, I'm Md: Masudur Rahman</h1>
 <h3 align="center">A am a developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Masudur400/Masudur400/assets/155249925/17d6ed23-ad48-40d0-9fa4-e0688cae5332)
-" />
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> Email: md8004210@gmail.com
