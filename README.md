@@ -7,9 +7,8 @@ F
 <h1 align="center">Hi 👋, I'm Md: Masudur Rahman</h1>
 <h3 align="center">A am a developer from Bangladesh</h3>
 
-<h3 align="left">Connect with me:md8004210@gmail.com
-</h3>
-<p align="left">
+<h3 align="left">Connect with me:</h3>
+<p align="left"> Email: md8004210@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
