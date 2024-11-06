@@ -1,4 +1,4 @@
-  ![banner-4](https://github.com/Masudur400/Masudur400/assets/155249925/33b19111-1781-4b7c-8a58-9bbddca8a299)
+  <img align="right" alt="coding" width="300" height="200" src="https://ik.imagekit.io/masudur/Black%20and%20White%20Modern%20Geometric%20Animation%20Youtube%20Channel%20Intro.gif" />
  
 
 <h1 align="center">Hi 👋, I'm Md: Masudur Rahman</h1>
