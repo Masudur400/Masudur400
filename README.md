@@ -1,4 +1,4 @@
- <img align="" alt="coding"  src="<img align="right" alt="coding" width="300" height="200" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />" />
+ <img align="" alt="coding"  src="https://github.com/user-attachments/assets/38ff8f46-d655-4fa2-a250-8c1dc5d5a94c" />
  
 
 <h1 align="center">Hi 👋, I'm Md: Masudur Rahman</h1>
