@@ -1,4 +1,4 @@
-  <img align="right" alt="coding" width="300" height="200" src="https://ik.imagekit.io/masudur/Black%20and%20White%20Modern%20Geometric%20Animation%20Youtube%20Channel%20Intro.gif" />
+  <img align="right" alt="coding" width="300" height="200" src="https://drive.google.com/file/d/1p7BHiAjq8ilcQZYhcaTRqwR2MQ389ldj/view?usp=sharing" />
  
 
 <h1 align="center">Hi 👋, I'm Md: Masudur Rahman</h1>
