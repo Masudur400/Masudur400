@@ -26,7 +26,7 @@
       <p align="left">
   📧 <a href="mailto:dev.masudur@gmail.com">dev.masudur@gmail.com</a><br/>
   🔗 <a href="https://linkedin.com/in/masudur-rahman-55aa1026b" target="_blank">LinkedIn: Masudur Rahman</a><br/>
-  📘 <a href="https://fb.com/md.rana.mia.vhai" target="_blank">Facebook: Masudur Rahman</a>
+  📘 <a href="https://fb.com/MD.RANA.MIA.VAI" target="_blank">Facebook: Masudur Rahman</a>
 </p>
     </td>
     <td>
