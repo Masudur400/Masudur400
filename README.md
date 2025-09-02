@@ -1,7 +1,7 @@
 ![banner](https://ik.imagekit.io/masudur/github-cover.png?updatedAt=1756832276579)
 
  
-<h3 align="center">🚀 A passionate Developer from Bangladesh</h3>
+<h3 align="center">🚀 A passionate Web Developer from Bangladesh</h3>
 
 ---
 
