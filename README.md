@@ -21,18 +21,13 @@
 
  
 ### 🌐 Connect with Me
-<table>
-  <tr>
-    <td>
-      <p align="left">
+ 
+ <p>
   📧 <a href="mailto:dev.masudur@gmail.com">dev.masudur@gmail.com</a><br/>
   🔗 <a href="https://linkedin.com/in/masudur-rahman-55aa1026b" target="_blank">LinkedIn: Masudur Rahman</a><br/>
   📘 <a href="https://fb.com/MD.RANA.MIA.VAI" target="_blank">Facebook: Masudur Rahman</a>
 </p>
-    </td>
-    
-  </tr>
-</table>
+     
 
 
 
