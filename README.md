@@ -30,9 +30,7 @@
   📘 <a href="https://fb.com/MD.RANA.MIA.VAI" target="_blank">Facebook: Masudur Rahman</a>
 </p>
     </td>
-    <td>
-      <img align="right" alt="coding" width="100%" height="270" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
-    </td>
+    
   </tr>
 </table>
 
