@@ -22,7 +22,7 @@
 ### 🌐 Connect with Me
 <table>
   <tr>
-    <td width="50%">
+    <td width="100%">
       <p align="left">
         <a href="mailto:dev.masudur@gmail.com"><img src="https://img.shields.io/badge/Email-Dev.Masudur%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a><br/>
         <a href="https://linkedin.com/in/masudur-rahman-55aa1026b" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Masudur%20Rahman-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br/>
