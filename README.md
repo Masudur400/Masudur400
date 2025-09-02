@@ -21,20 +21,21 @@
 
  
 ### 🌐 Connect with Me
-<table width="100%" style="display: flex; justify-content: space-between; align-items: center;">
-  <tr style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <td style="flex: 1; text-align: left;">
-      <p>
-        <a href="mailto:dev.masudur@gmail.com"><img src="https://img.shields.io/badge/Email-Dev.Masudur%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a><br/>
-        <a href="https://linkedin.com/in/masudur-rahman-55aa1026b" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Masudur%20Rahman-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br/>
-        <a href="https://fb.com/md.rana.mia.vhai" target="blank"><img src="https://img.shields.io/badge/Facebook-Masudur%20Rahman-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-      </p>
+<table>
+  <tr>
+    <td>
+      <p align="left">
+  📧 <a href="mailto:dev.masudur@gmail.com">dev.masudur@gmail.com</a><br/>
+  🔗 <a href="https://linkedin.com/in/masudur-rahman-55aa1026b" target="_blank">LinkedIn: Masudur Rahman</a><br/>
+  📘 <a href="https://fb.com/MD.RANA.MIA.VAI" target="_blank">Facebook: Masudur Rahman</a>
+</p>
     </td>
-    <td style="flex: 1; text-align: right;">
-      <img alt="coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
+    <td>
+      <img align="right" alt="coding" width="100%" height="270" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
     </td>
   </tr>
 </table>
+
 
 
 ---
