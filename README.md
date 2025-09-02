@@ -1,14 +1,14 @@
 ![banner](https://ik.imagekit.io/masudur/github-cover.png?updatedAt=1756832276579)
 
-<h2 align="center">Hi 👋, I'm Masudur Rahman</h2>
-<h3 align="center">🚀 A passionate Full-Stack Developer from Bangladesh</h3>
+ 
+<h3 align="center">🚀 A passionate Developer from Bangladesh</h3>
 
 ---
 
 ### 🔥 GitHub Stats
 <table align="center">
   <tr>
-    <td align="center" width="100%">
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=masudur400&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="160"/>
     </td>
     <td align="center">
