@@ -8,7 +8,7 @@
 ### 🔥 GitHub Stats
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" width="100%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=masudur400&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="160"/>
     </td>
     <td align="center">
