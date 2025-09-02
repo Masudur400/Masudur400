@@ -36,9 +36,3 @@
 </table>
 
 ---
-
-### 💡 About Me  
-- 🎓 Highly motivated **Full-Stack Developer**  
-- 💻 Love to build **user-friendly & scalable apps**  
-- 🚀 Skilled in **React, Node.js, Express, MongoDB, Firebase, Redux, TypeScript**  
-- 🌱 Currently exploring **System Design & Best Practices**  
