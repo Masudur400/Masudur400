@@ -6,6 +6,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masudur400&" alt="masudur400" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masudur400&show_icons=true&locale=en&layout=compact" alt="masudur400" /></p>
+
 <img align="right" alt="coding" width="300" height="200" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
  
@@ -19,7 +21,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masudur400&show_icons=true&locale=en&layout=compact" alt="masudur400" /></p>
+
 
 
 
