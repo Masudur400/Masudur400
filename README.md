@@ -1,7 +1,7 @@
    ![banner-4](https://ik.imagekit.io/masudur/github-cover.png?updatedAt=1756832276579)
  
 
-<h1 align="center">Hi 👋, I'm Md: Masudur Rahman</h1>
+ 
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
 <img align="right" alt="coding" width="300" height="200" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
