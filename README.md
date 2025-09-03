@@ -12,7 +12,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=masudur400&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="160"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=masudur400&theme=radical" alt="Streak Stats" height="160"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=masudur400&" alt="Streak Stats" height="160"/>
     </td>
   </tr>
 </table>
