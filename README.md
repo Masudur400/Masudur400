@@ -10,10 +10,7 @@
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masudur400&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-    </td>
-    <td align="center">
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=masudur400&show_icons=true&locale=en&theme=radical" alt="masudur400" />
-    </td>
+    </td> 
    <td align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masudur400&theme=radical" alt="Streak" />
     </td>
