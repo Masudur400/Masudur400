@@ -15,7 +15,7 @@
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=masudur400&show_icons=true&locale=en&theme=radical" alt="masudur400" />
     </td>
    <td align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masudur400&theme=radical" alt="masudur400" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masudur400&theme=radical" alt="Streak" />
     </td>
   </tr>
 </table>  
