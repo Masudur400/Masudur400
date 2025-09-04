@@ -20,7 +20,7 @@
   </tr>
 </table>  
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=masudur400&" alt="no"/>
+<img src="https://github-readme-streak-stats.demolab.com/?user=masudur400&" alt="no"/>
 
 ---
 
