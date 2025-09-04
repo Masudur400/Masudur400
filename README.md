@@ -15,9 +15,7 @@
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masudur400&" alt="masudur400" />
     </td>
   </tr>
-</table>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masudur400&" alt="masudur400" /></p>
+</table> 
 
  
 
