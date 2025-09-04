@@ -6,17 +6,17 @@
 ---
 
 ### 🔥 GitHub Stats
-<table align="center">
-  <tr>
-    <td align="center">
+<div align="center">
+  
+    <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Masudur400&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-    </td>
-    <td align="center">
+    </div>
+    <div align="center">
       <img src="https://streak-stats.demolab.com?user=Masudur400&theme=radical" alt="GitHub Streak" />
 
-    </td>
-  </tr>
-</table>
+    </div>
+  
+</div>
  
 
 ---
