@@ -13,6 +13,7 @@
     </td> 
    <td align="center">
     <img align="center" src="https://streak-stats.demolab.com?user=masudur400&theme=radical" alt="Streak" /> 
+    ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue)
     </td>
   </tr>
 </table>  
