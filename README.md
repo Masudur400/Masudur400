@@ -12,8 +12,8 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masudur400&layout=compact&theme=radical" alt="Top Languages" height="160"/>
     </td> 
    <td align="center">
-    <img align="center" src="https://streak-stats.demolab.com?user=masudur400&theme=radical" alt="Streak" /> 
-    ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue)
+    <img align="center" src="https://streak-stats.demolab.com?user=Masudur400&theme=radical" alt="Streak" /> 
+    ![GitHub Streak](https://streak-stats.demolab.com?user=Masudur400&theme=github-dark-blue)
     </td>
   </tr>
 </table>  
