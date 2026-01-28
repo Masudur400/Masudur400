@@ -13,6 +13,7 @@
     </td> 
    <td align="center">
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masudur400&theme=dark" alt="GitHub Streak" />
+    [![GitHub Streak](https://streak-stats.demolab.com?user=user=Masudur400)](https://git.io/streak-stats)
     </td>
   </tr>
 </table>  
